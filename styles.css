@@ -1,0 +1,33 @@
+.body{
+	background-color: #204051;
+	font-family: 'Acme', sans-serif;
+}
+.title{
+	text-align: center;
+	color: #79d70f;
+}
+.title h1{
+	font-family: 'Lobster', cursive;
+	font-size: 5em;
+}
+.footer{
+	text-align: center;
+	color: #79d70f;
+	padding-top:6%;
+	padding-bottom: 3%
+}
+p{
+	font-size: 20px;
+}
+.main-body{
+	text-align: center;
+	margin: 60px 10px 0px 0px;
+}
+.result{
+	text-align: center;
+	color: #79d70f;
+	margin: 30px 0 0 0;
+}
+.img{
+	margin-right: 30px;
+}
